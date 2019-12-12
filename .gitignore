@@ -1,4 +1,4 @@
 
 # Default ignored files
-.git
-.idea
+.git/
+.idea/
