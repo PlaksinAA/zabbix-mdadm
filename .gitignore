@@ -2,3 +2,4 @@
 # Default ignored files
 .git/
 .idea/
+*.log
